@@ -2,7 +2,7 @@
 
 Bienvenidos a la lista de ejercicios resueltos de Pseint.
 
-Son ejercios completados y comentados de manera personal pero que pueden ayudar a otras personas a entender lo que esta sucediendo. Recuerda que Pseint es pseudocódigo, significa que es la manera de pensar y definir los pasos para resolver un determinado problema. No es un lenguaje de programación.
+Son ejercios completos y comentados de manera personal pero que pueden ayudar a otras personas a entender lo que esta sucediendo. Recuerda que Pseint es pseudocódigo, significa que es la manera de pensar y definir los pasos para resolver un determinado problema. No es un lenguaje de programación.
 
 El objetivo de aprender en Pseudocódigo es saber que realizando los pasos correctos se puede llegar a una solución. Luego estos pasos serán aplicados a un lenguaje de programación que trendrá su sintaxis (Manera de escribir) y reglas para que sea correcto y se pueda ejecutar sin problemas.
 
