@@ -8,6 +8,8 @@ El objetivo de aprender en Pseudocódigo es saber que realizando los pasos corre
 
 Un par de ejemplos para que puedan ver las diferencias pero que la manera de pensar es similar, pero de escribir diferente:
 
+#### Pseudocodigo
+
 ``` code
 Proceso Imprimir
     Escribir "Hola, mundo";
